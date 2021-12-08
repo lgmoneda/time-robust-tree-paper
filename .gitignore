@@ -1,0 +1,3 @@
+experiments/.ipybn_checkpoints/
+*/__pycache__/
+experiments/logs.log
